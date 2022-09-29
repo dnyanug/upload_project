@@ -1,2 +1,2 @@
-# Cryptoverse - Explore the World of Cryptocurrency
+Cryptocurrency Web Application
 
